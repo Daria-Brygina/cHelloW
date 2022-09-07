@@ -5,10 +5,13 @@
 
 int main()
 {
+    int x;
+    std::cin >> x;
     std::cout << "Hello World!\n";
     return 0;
+    
 }
-
+//научились считывать переменные и выводитить информацию
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
